@@ -19,3 +19,4 @@ bun run dev
 ## Frontend Projects URL
 
 - [x] [Single Page CV](https://roadmap.sh/projects/single-page-cv) - /
+  - [Roadmap Solutions](https://roadmap.sh/projects/single-page-cv/solutions?u=6571a53a5145316d25cd8af6)
